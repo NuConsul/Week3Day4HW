@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OutputFragment"
+    android:background="#5F9E28">
+
+
+    <!--<TextView
+        android:id="@+id/tvUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/tvUserEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/tvUserPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp" />-->
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"/>
+
+</LinearLayout>
