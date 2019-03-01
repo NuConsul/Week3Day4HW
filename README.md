@@ -13,11 +13,11 @@ c) User Password
 
 First Activity
 
-![](Pictures/Pic1.png)
+![](Picture/Pic1.png)
 
 
 
 
 Second Activity
 
-![](Pictures/Pic2.png)
+![](Picture/Pic2.png)
